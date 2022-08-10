@@ -143,6 +143,38 @@ hr {
     width: 70vw;
 }
 
+.div-try p{
+    text-align: center;
+    margin: 0;
+}
+
+li{
+    font-size: 1.25em;
+    color:#413f3fa6;
+    list-style: none;
+};
+
+.div-list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.div-ul {
+    display:flex;
+    justify-content:space-around;
+    width: 70vw;
+}
+
+.div-ul li{
+    margin: 5vh 0px;
+    width:30vw;
+}
+
+
+
+
+}
 
 }
 
